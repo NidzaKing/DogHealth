@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">DogHealth</string>
+
+    <string name="another_one">Another one</string>
+    <string name="error_loading">Error loading image</string>
+    <string name="breed_meta">Life: %1$s | Weight: %2$s kg | Height: %3$s cm</string>
+    <string name="breed_temperament">Temperament: %1$s</string>
+    <string name="health_tips">Health tips: redovna fizička aktivnost, balansirana ishrana, veterinarske kontrole.</string>
+</resources>
